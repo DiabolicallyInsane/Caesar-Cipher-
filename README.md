@@ -1,0 +1,1 @@
+The decrypt function is pretty redundant, because you can basically use the encrypt key and use the pass but by making it negative, it works the same, included it becasue of better methodology and all that thing.
